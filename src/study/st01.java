@@ -18,6 +18,7 @@ public class st01 {
 		else 
 			System.out.println("이 값은 양의 값입니다");
 
+		
 	}
 
 }
