@@ -20,5 +20,6 @@ public class st03 {
 		else 
 			System.out.println("B는 A의 약수 아닙니다");
 
+		
 	}
 }
