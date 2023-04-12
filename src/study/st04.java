@@ -23,6 +23,7 @@ public class st04 {
 		else 
 			System.out.println("B는 A의 약수 입니다");
 
+		
 	}
 
 }
