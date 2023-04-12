@@ -18,6 +18,7 @@ public class st02 {
 		else 
 			System.out.println("절대값은 " + -n +"입니다.");
 
+	
 	}
 
 }
