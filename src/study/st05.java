@@ -21,6 +21,7 @@ public class st05 {
 		else 
 			System.out.println("이 값은 0입니다");
 
+		
 	}
 
 }
