@@ -7,9 +7,10 @@ public class ST01 {
 		// TODO Auto-generated method stub
 		Scanner stdIn = new Scanner(System.in);
 		
-		System.out.println("정수값 : ");
+		System.out.print("정수값 : ");
 		int n = stdIn.nextInt();
 		
+
 		
 		if(n < 0)
 		{
